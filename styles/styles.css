@@ -1,0 +1,39 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1{
+    align-items: center;
+    font-style: normal;
+    color: darkgreen;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cobra{
+    height: 85px;
+    width: 102px;
+}
+
+.titulo{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.placar {
+    color: darkolivegreen;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#element{
+    color: darkolivegreen;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
