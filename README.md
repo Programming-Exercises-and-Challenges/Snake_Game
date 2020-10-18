@@ -1,6 +1,6 @@
 # Snake_Game
 
-Recriando Jogo Íconico da Cobrinha em HTML5 - CSS3 - JS  no Bootcamp da DIO 
+## Recriando Jogo Íconico da Cobrinha em HTML5 - CSS3 - JS  no Bootcamp da DIO 
 
 Futuramente atualizarei 🙃
 
