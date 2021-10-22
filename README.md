@@ -1,6 +1,8 @@
 # Snake_Game
 
-## Recriando Jogo Íconico da Cobrinha em HTML5 - CSS3 - JS  no Bootcamp da DIO 
+##### Recriando Jogo Íconico da Cobrinha em HTML5 - CSS3 - JS  no Bootcamp da DIO 
+
+<i>Desenvolvido por [HMontarroyos](https://github.com/HMontarroyos)</i>
 
 Futuramente atualizarei 🙃
 
@@ -11,7 +13,8 @@ To Do ...
 // Implementar niveis 
 // implementar designer da maça(food)
 
+![snake](https://user-images.githubusercontent.com/60220406/138492183-52cf1328-173b-4790-8332-c2495f09acb2.gif)
+
 ## 🚀 Let's code! 🚀
 
-<img width="632" alt="Snake game" src="https://user-images.githubusercontent.com/60220406/96369220-10ec7880-112f-11eb-99b5-c0dca2d5d2c7.png">
 
